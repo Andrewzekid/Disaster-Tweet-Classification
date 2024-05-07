@@ -10,3 +10,6 @@ Deep learning approach:
 - Model 5: Bidirectional LSTM Network
 - Model 6: Convolutional Network
 - Model 7: RNN with 1 hidden layer
+
+## Results:
+81% accuracy was achieved at highest.
